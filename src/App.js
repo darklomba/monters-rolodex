@@ -20,7 +20,7 @@ class App extends Component {
     .then(response => response.json())
     .then(users => this.setState({ monsters: users }));
 
-    fetch('http://quimilar.herokuapp.com/api/v1/households/all')
+    fetch('https://quimilar.herokuapp.com/api/v1/households/all')
     .then(response => response.json())
     .then(households => this.setState({ households: households }));
   }
