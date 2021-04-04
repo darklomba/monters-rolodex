@@ -1,22 +1,25 @@
 {
   "files": {
-    "main.css": "/darklomba/monters-rolodex/static/css/main.9062455a.chunk.css",
-    "main.js": "/darklomba/monters-rolodex/static/js/main.ba858b1d.chunk.js",
-    "main.js.map": "/darklomba/monters-rolodex/static/js/main.ba858b1d.chunk.js.map",
-    "runtime-main.js": "/darklomba/monters-rolodex/static/js/runtime-main.05e28dcc.js",
-    "runtime-main.js.map": "/darklomba/monters-rolodex/static/js/runtime-main.05e28dcc.js.map",
-    "static/js/2.4058bf1b.chunk.js": "/darklomba/monters-rolodex/static/js/2.4058bf1b.chunk.js",
-    "static/js/2.4058bf1b.chunk.js.map": "/darklomba/monters-rolodex/static/js/2.4058bf1b.chunk.js.map",
-    "static/js/3.7eb9e59c.chunk.js": "/darklomba/monters-rolodex/static/js/3.7eb9e59c.chunk.js",
-    "static/js/3.7eb9e59c.chunk.js.map": "/darklomba/monters-rolodex/static/js/3.7eb9e59c.chunk.js.map",
-    "index.html": "/darklomba/monters-rolodex/index.html",
-    "static/css/main.9062455a.chunk.css.map": "/darklomba/monters-rolodex/static/css/main.9062455a.chunk.css.map",
-    "static/js/2.4058bf1b.chunk.js.LICENSE.txt": "/darklomba/monters-rolodex/static/js/2.4058bf1b.chunk.js.LICENSE.txt"
+    "main.css": "/monters-rolodex/static/css/main.0df66f93.chunk.css",
+    "main.js": "/monters-rolodex/static/js/main.139d299c.chunk.js",
+    "main.js.map": "/monters-rolodex/static/js/main.139d299c.chunk.js.map",
+    "runtime-main.js": "/monters-rolodex/static/js/runtime-main.dee349de.js",
+    "runtime-main.js.map": "/monters-rolodex/static/js/runtime-main.dee349de.js.map",
+    "static/css/2.b4ebbe46.chunk.css": "/monters-rolodex/static/css/2.b4ebbe46.chunk.css",
+    "static/js/2.f8b8b198.chunk.js": "/monters-rolodex/static/js/2.f8b8b198.chunk.js",
+    "static/js/2.f8b8b198.chunk.js.map": "/monters-rolodex/static/js/2.f8b8b198.chunk.js.map",
+    "static/js/3.f1a7a35c.chunk.js": "/monters-rolodex/static/js/3.f1a7a35c.chunk.js",
+    "static/js/3.f1a7a35c.chunk.js.map": "/monters-rolodex/static/js/3.f1a7a35c.chunk.js.map",
+    "index.html": "/monters-rolodex/index.html",
+    "static/css/2.b4ebbe46.chunk.css.map": "/monters-rolodex/static/css/2.b4ebbe46.chunk.css.map",
+    "static/css/main.0df66f93.chunk.css.map": "/monters-rolodex/static/css/main.0df66f93.chunk.css.map",
+    "static/js/2.f8b8b198.chunk.js.LICENSE.txt": "/monters-rolodex/static/js/2.f8b8b198.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.05e28dcc.js",
-    "static/js/2.4058bf1b.chunk.js",
-    "static/css/main.9062455a.chunk.css",
-    "static/js/main.ba858b1d.chunk.js"
+    "static/js/runtime-main.dee349de.js",
+    "static/css/2.b4ebbe46.chunk.css",
+    "static/js/2.f8b8b198.chunk.js",
+    "static/css/main.0df66f93.chunk.css",
+    "static/js/main.139d299c.chunk.js"
   ]
 }
